@@ -35,3 +35,22 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+# Eclipse
+.springBeans
+.classpath
+.project
+.settings/
+
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
